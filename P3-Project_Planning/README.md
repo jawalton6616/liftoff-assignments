@@ -1,19 +1,21 @@
-# Project Planning
+<!-- # Project Planning
 For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
-## Submission Instructions
+## Submission Instructions -->
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- [High-level Flowchart - Google Drawing](https://docs.google.com/drawings/d/1blaJSajc68U-Ti4ma-pKo_X51gk2z6RWjAe_ZtvMNhE/edit?usp=sharing)
+- [Flowchart - MockFlow](https://wireframepro.mockflow.com/view/Sound-Minds)
+- [UI Design - Figma](https://www.figma.com/file/61f8z1byGEohsxGTPfcCHP/Sound-Minds?node-id=13%3A907)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/fwTLK890/sound-minds)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[GitHub Repository](https://github.com/jawalton6616/sound-minds-auth)
