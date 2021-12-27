@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- [High-level Flowchart - Google Drawing](https://docs.google.com/drawings/d/1blaJSajc68U-Ti4ma-pKo_X51gk2z6RWjAe_ZtvMNhE/edit?usp=sharing)
+- [High-level Flowchart - Google Drawing](https://docs.google.com/drawings/d/1skPnelYQW4TKYvKEXoV_XblQD5TDeAIhpjPUP8W52Aw/edit?usp=sharing)
 - [Flowchart - MockFlow](https://wireframepro.mockflow.com/view/Sound-Minds)
 - [UI Design - Figma](https://www.figma.com/file/61f8z1byGEohsxGTPfcCHP/Sound-Minds?node-id=13%3A907)
 
